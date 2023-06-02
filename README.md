@@ -30,14 +30,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Set up a 'Hello Microverse' project] <a name="about-project"></a>
+# 📖 Set up a 'Hello Microverse' project <a name="about-project"></a>
 
-> The "Hello Microverse" project is a simple web application that displays a header with the text "Hello Microverse!" using HTML and CSS.
-
-
+>The "Hello Microverse" project is a simple web application that displays a header with the text "Hello Microverse!" using HTML and CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
-
+- HTML
+- CSS
 ### Tech Stack <a name="tech-stack"></a>
 
 
@@ -56,7 +55,7 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[> This project doesn't require any complex coding. The goal here is to master all of the tools and best practices that are used in a professional development environment.]**
+- **This project doesn't require any complex coding. The goal here is to master all of the tools and best practices that are used in a professional development environment.**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,8 +116,31 @@ Install this project with:
 
 To run the project, open the project by launching the Live Server plugging in visual studio code.
 
+### Usage
+
+To run the project, follow these steps:
+- Open the cloned repository folder in your preferred code editor.
+- Locate the index.html file and open it in a web browser.
 
 
+### Run tests
+
+ To run tests for this project, execute the following command
+
+
+```sh
+npm test
+
+```
+### Deployment
+
+You can deploy this project using:
+
+```sh
+npm run build
+npm run deploy
+
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -139,9 +161,9 @@ To run the project, open the project by launching the Live Server plugging in vi
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **simple project**
-- [ ] **It has HTML**
-- [ ] **It has css**
+-  **simple project**
+- **It has HTML**
+- **It has css**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,10 +197,9 @@ I am greateful for microvese community!
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
+- **What is Mobile-first?**
 
-- **[What is Mobile-first?]**
-
-  - [The objective of creating the "Hello Microverse" project is to provide a simple and introductory project for students at Microverse. This project serves as a starting point for students to familiarize themselves with the development environment, version control system (Git), and the process of submitting assignments.]  
+- The objective of creating the "Hello Microverse" project is to provide a simple and introductory project for students at Microverse. This project serves as a starting point for students to familiarize themselves with the development environment, version control system (Git), and the process of submitting assignments.  
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
